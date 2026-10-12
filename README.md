@@ -14,7 +14,12 @@ A much cleaner **PCB Version 2** is already planned.
 Thanks for understanding! 🛠️❤️
 
 > 🫧🫧🫧
-
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="Images/stm32_1.jpg" alt="Images/stm32_1.jpg" width="100%"></td>
+    <td><img src="Images/stm32_2.jpg" alt="Images/stm32_2.jpg" width="100%"></td>
+  </tr>
+</table>
 ---
 
 ## 📦 Bill of Materials (BOM)
